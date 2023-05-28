@@ -8,7 +8,7 @@ module.exports = {
   // You can also put this in your Vercel's environment variable 'NEXT_PUBLIC_USER_PRINCIPLE_NAME' if you worry about
   // your email being exposed in public.
   userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'laotongsh@outlook.com',
-
+  //修改邮箱
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
   icon: '/icons/128.png',
